@@ -1,1 +1,1 @@
-# lembras de escrever algo útil
+# lembrar de escrever algo útil

@@ -1,24 +1,7 @@
-# vuejs-cli
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# formulário de avaliação / comentários
+#
+# utilizando Vue.JS , agora em Single File Component
+# 
+# el, template, data, methods, computed, watch
+#
+# vuejs-cli a mesma aplicação da pasta anterior porém utilizando Single File Component, separando em FormRespostas e Respostas
